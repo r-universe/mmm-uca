@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adea"]
+	path = adea
+	url = https://github.com/cran/adea
+	shallow = true
+	registered = true
+[submodule "orloca"]
+	path = orloca
+	url = https://github.com/cran/orloca
+	shallow = true
+	registered = true
+[submodule "orloca.es"]
+	path = orloca.es
+	url = https://github.com/cran/orloca.es
+	shallow = true
+	registered = true
+[submodule "RcmdrPlugin.orloca"]
+	path = RcmdrPlugin.orloca
+	url = https://github.com/cran/RcmdrPlugin.orloca
+	shallow = true
+	registered = true
+[submodule "RcmdrPlugin.UCA"]
+	path = RcmdrPlugin.UCA
+	url = https://github.com/cran/RcmdrPlugin.UCA
+	shallow = true
+	registered = true
